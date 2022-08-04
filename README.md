@@ -7,6 +7,6 @@ The purpose of this analysis is to be able to determine the ammount of emplyees 
 ## Results:
 
 - On of the mayor points that we were trying to see with this exercise was to determine which positions were going to become vacant with the older people retiring.
-Data/Screen Shot 2022-08-03 at 9.10.34 PM.png
+!{}(github.com/Mitcaz17/Emplyee_database/Data/Screen Shot 2022-08-03 at 9.10.34 PM.png)
 
 ## Summary:
